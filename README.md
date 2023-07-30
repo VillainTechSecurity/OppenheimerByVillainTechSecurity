@@ -1,3 +1,4 @@
 Installation
-git clone 
-cd 
+git clone https://github.com/VillainTechSecurity/OppenheimerByVillainTechSecurity/tree/main
+cd OppenheimerByVillainTechSecurity
+python3 Oppenheimer.py
